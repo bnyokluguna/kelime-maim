@@ -3,7 +3,7 @@
   "logo": "", 
   "description": "kelime oyunu",
   "keywords": ["", "", "telegram"],
-  "repository": "https://github.com/abdullah626/kelimebotu",
+  "repository": "https://github.com/bnyokluguna/kelime-maim",
   "stack": "container",
   "env": {}
 }
